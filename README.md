@@ -36,8 +36,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <div align="center">
-<a href="https://www.linkedin.com/in/arief-maizaki/">
+<a href="https://www.linkedin.com/in/arief-maizaki/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://www.instagram.com/izaki_a21/">
+<a href="https://www.instagram.com/izaki_a21/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </div>
