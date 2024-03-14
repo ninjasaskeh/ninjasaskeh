@@ -30,9 +30,9 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-<p><img  height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ninjasaskeh&layout=compact&langs_count=8" alt="ninjasaskeh" /></p>
+<p><img  height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ninjasaskeh&theme=dark&layout=compact&langs_count=8" alt="ninjasaskeh" /></p>
 
-<p>&nbsp;<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ninjasaskeh&show_icons=true&include_all_commits=true&count_private=true" alt="ninjasaskeh" /></p>
+<p>&nbsp;<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjasaskeh&theme=dark&hide_border=fals" alt="ninjasaskeh" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <div align="center">
