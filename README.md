@@ -37,14 +37,25 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=white)
 
-<p><img  height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ninjasaskeh&theme=dark&layout=compact&langs_count=8" alt="ninjasaskeh" /></p>
+### 💪 &nbsp;Stats
+<p>
+  <img height="149em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ninjasaskeh&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="149em" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjasaskeh&layout=compact&hide_border=true&theme=tokyonight" alt="ninjasaskeh" />
+</p>
 
-<p>&nbsp;<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjasaskeh&theme=dark&hide_border=fals" alt="ninjasaskeh" /></p>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjasaskeh&theme=tokyonight" alt="ninjasaskeh's github stats" /></a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<div align="center">
+<div align="start">
 <a href="https://www.linkedin.com/in/arief-maizaki/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://www.instagram.com/tnku.seija" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
+
+  
 </div>
