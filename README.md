@@ -1,9 +1,9 @@
 <h1>親愛なる人</h1>
-<h1 align="center">Hi, I'm Arief 😜🤟</h1>
+
 <h3 align="center">Mas-mas biasa yg suka ngoding aja 🫠</h3>
 
+### Hi, I'm Arief 😜🤟
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/2641092.gif" />
-
 
 🫡 &nbsp; I like to explore new technologies and develop any kind of software.\
 👾 &nbsp; Cyber Security student at President University.\
@@ -51,9 +51,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjasaskeh&theme=tokyonight" alt="ninjasaskeh's github stats" /></a>
 </p>
 
-<div align="center">
-<img height="149em" src="https://leonardoquevedox.gallerycdn.vsassets.io/extensions/leonardoquevedox/tokyo-night-drive-theme/1.0.1/1726576373859/Microsoft.VisualStudio.Services.Icons.Default" alt="ninjasaskeh" />
-</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/arief-maizaki/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
