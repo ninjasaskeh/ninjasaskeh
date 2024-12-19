@@ -6,13 +6,18 @@
 
 
 🫡 &nbsp; I like to explore new technologies and develop any kind of software.\
-👾 &nbsp; Cyber Security student at @President University.\
+👾 &nbsp; Cyber Security student at President University.\
 🫣 &nbsp; Currently self-employed as **'N/A'**.\
 🥶 &nbsp; I have an interest in becoming a the greatest person in NextJS.\
 😜 &nbsp; Even though I am very interested in NextJS I can also use laravel.
 
+```ts
+> npm i happiness@2.1.0
+```
+
+
 ### 💻 &nbsp;Workspace Spec
-![Apple Macbook Pro M2](https://img.shields.io/badge/Apple-MacBook_Pro_M2-05122A?style=flat&logo=apple&logoColor=88E0EF)&nbsp;
+![Apple](https://img.shields.io/badge/MacBook_Pro_M2-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 
 ### 🧬 &nbsp;Tech
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,29 +38,27 @@
 ### 🛠 &nbsp;IDE's
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 💪 &nbsp;Stats
 <p>
-  <img height="149em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ninjasaskeh&layout=compact&hide_border=true&theme=tokyonight" />
-  <img height="149em" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjasaskeh&layout=compact&hide_border=true&theme=tokyonight" alt="ninjasaskeh" />
+  <img height="182em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ninjasaskeh&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninjasaskeh&theme=tokyonight" />
 </p>
-
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjasaskeh&theme=tokyonight" alt="ninjasaskeh's github stats" /></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-<div align="start">
-<a href="https://www.linkedin.com/in/arief-maizaki/" target="_blank">
+<div align="center">
+<img height="149em" src="https://leonardoquevedox.gallerycdn.vsassets.io/extensions/leonardoquevedox/tokyo-night-drive-theme/1.0.1/1726576373859/Microsoft.VisualStudio.Services.Icons.Default" alt="ninjasaskeh" />
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/arief-maizaki/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/tnku.seija" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-
-
-  
 </div>
