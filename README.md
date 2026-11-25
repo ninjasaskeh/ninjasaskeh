@@ -45,36 +45,31 @@ Connection: keep-alive
 
 ### `03` Routes &nbsp;·&nbsp; <sub>L2 / API · 112ms</sub>
 
-| route | endpoint | response | stack |
-| :--- | :--- | :--- | :--- |
-| `/01` | [**Hidro Seal ERP**](https://erp-hsti.com/) | Marketing, Inventory and Accounting modules for a manufacturing ERP: RFQ-to-delivery flow, perpetual inventory, general ledger, PDF/Excel reports. | Laravel · React · Inertia.js · PostgreSQL |
-| `/02` | [**Hijau Elektronika Indonesia ERP**](https://erp-hei.pronus.co.id/) | Quotation to delivery for a parts manufacturer: BOM-based work orders, six production process modules (injection to assembly), QC handoff. | Laravel · React · Inertia.js · PostgreSQL |
-| `/03` | **TJSL WIKA** | CSR reporting for WIKA: unit budgets, spending with admin validation, final-report verification, activity maps, Excel/PDF exports. | Laravel · React · Inertia.js · PostgreSQL |
-| `/04` | [**ERP Padang Auto Sejati**](https://pt-padang-auto-sejati.vercel.app/login) | Workshop ERP, API-driven JAMstack on Vercel: vehicle intake, cost estimation, work orders, invoicing. | JAMstack · REST API · Supabase |
+Live endpoints, rendered fresh on every request. Pinned repos below are the real routes.
+
+```http
+GET /api/stats?user=ninjasaskeh        → 200 OK
+GET /api/top-langs?user=ninjasaskeh    → 200 OK
+```
+
+<p>
+  <img height="165" alt="GET /api/stats" src="https://github-readme-stats.vercel.app/api?username=ninjasaskeh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=c6ff00&text_color=ffffff&icon_color=c6ff00&custom_title=GET%20%2Fapi%2Fstats" />
+  <img height="165" alt="GET /api/top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjasaskeh&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=c6ff00&text_color=ffffff&custom_title=GET%20%2Fapi%2Ftop-langs" />
+</p>
 
 ### `04` Logs &nbsp;·&nbsp; <sub>L3 / LOGGING · 240ms</sub>
 
-<details open>
-<summary><code>2025-01 → now</code> &nbsp; <code>PUT</code> &nbsp; <b>Full-Stack Developer</b> @ PT Program Nusantara Solusindo &nbsp; <code>● 200 OK</code></summary>
-
-```diff
-+ Shipped ERP systems for 5+ manufacturers in bonded zones (Kawasan Berikat & Gudang Berikat)
-+ Designed 4 core ERP modules: inventory, purchasing, sales, production
-+ Built customs compliance reports handling 10,000+ stock movements/month
-+ Cut report load time by 40% with PostgreSQL indexing
-+ Built SPA pages with React, TypeScript & Inertia.js on Laravel, no separate API layer
+```console
+$ tail -f /var/log/github/commits.log
 ```
-</details>
 
-<details open>
-<summary><code>2024-09 → 2025-01</code> &nbsp; <code>GET</code> &nbsp; <b>Web Developer</b> (internship) @ ITJEN Kemendagri &nbsp; <code>301 Moved</code></summary>
+<img width="100%" alt="commit traffic, last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=ninjasaskeh&bg_color=000000&color=ffffff&line=c6ff00&point=ffffff&area=true&area_color=c6ff00&hide_border=true&custom_title=commits.log%20%C2%B7%20last%2031%20days" />
 
-```diff
-+ Built an internal mail tracking app (React + Laravel): 15+ reusable components, 20+ REST endpoints
-+ Built an internship registration system: 5 modules, 20+ PostgreSQL tables with audit logs
-+ Shipped 30+ features and fixed 50+ bugs in a 4-dev team using a Git workflow
+```console
+$ sniff --eat packets   # every green cell is a commit, the sniffer eats them all
 ```
-</details>
+
+<img width="100%" alt="packet sniffer eating the contribution graph" src="https://raw.githubusercontent.com/ninjasaskeh/ninjasaskeh/output/sniffer.svg" />
 
 ### `05` Query &nbsp;·&nbsp; <sub>L4 / DATABASE · 486ms</sub>
 
@@ -93,14 +88,19 @@ SELECT layer, items FROM skills ORDER BY layer;
 
 ### `06` Keep-Alive &nbsp;·&nbsp; <sub>L5 / CONNECTION · 820ms</sub>
 
-```
-Connection: keep-alive
+```console
+$ watch -n 1 'ss -o state established "( dport = :443 )"'
 ```
 
-1. It started at President University, where I studied Informatics and found out I like the whole journey of a request, not just one stop along the way.
-2. I graduated with a 3.67/4.00 GPA, with the fundamentals in place: data structures, databases, networks, and a lot of late-night debugging.
-3. Today I'm at PT Program Nusantara Solusindo, building web applications end to end and shipping them to real users.
-4. The connection is still open: always up for the next problem worth solving.
+<img width="100%" alt="Connection: keep-alive. Beat 01 President University (Informatics). Beat 02 GPA 3.67/4.00. Beat 03 2024, ITJEN Kemendagri internship. Beat 04 2025 to now, full-stack at PT Program Nusantara Solusindo. Still alive." src="./keepalive.svg" />
+
+```console
+$ uptime --commits
+```
+
+<img width="100%" alt="commit streak: connection uptime" src="https://streak-stats.demolab.com?user=ninjasaskeh&hide_border=true&background=B18CFF&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=00000099&date_format=M%20j%5B%2C%20Y%5D" />
+
+<sub>Heartbeat = keep-alive probes. Commit streak = connection uptime.</sub>
 
 ### `07` Response &nbsp;·&nbsp; <sub>200 / OK · 1240ms</sub>
 
