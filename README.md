@@ -45,31 +45,15 @@ Connection: keep-alive
 
 ### `03` Routes &nbsp;·&nbsp; <sub>L2 / API · 112ms</sub>
 
-Live endpoints, rendered fresh on every request. Pinned repos below are the real routes.
+<img width="100%" alt="GET /api/v1/users/ninjasaskeh: profile JSON and languages by repo" src="./routes.svg" />
 
-```http
-GET /api/stats?user=ninjasaskeh        → 200 OK
-GET /api/top-langs?user=ninjasaskeh    → 200 OK
-```
-
-<p>
-  <img height="165" alt="GET /api/stats" src="https://github-readme-stats.vercel.app/api?username=ninjasaskeh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=c6ff00&text_color=ffffff&icon_color=c6ff00&custom_title=GET%20%2Fapi%2Fstats" />
-  <img height="165" alt="GET /api/top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjasaskeh&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=c6ff00&text_color=ffffff&custom_title=GET%20%2Fapi%2Ftop-langs" />
-</p>
+<sub>Pinned repos below are the real routes.</sub>
 
 ### `04` Logs &nbsp;·&nbsp; <sub>L3 / LOGGING · 240ms</sub>
 
-```console
-$ tail -f /var/log/github/commits.log
-```
+<img width="100%" alt="access.log: latest commits" src="./logs.svg" />
 
-<img width="100%" alt="commit traffic, last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=ninjasaskeh&bg_color=000000&color=ffffff&line=c6ff00&point=ffffff&area=true&area_color=c6ff00&hide_border=true&custom_title=commits.log%20%C2%B7%20last%2031%20days" />
-
-```console
-$ sniff --eat packets   # every green cell is a commit, the sniffer eats them all
-```
-
-<img width="100%" alt="packet sniffer eating the contribution graph" src="./sniffer.svg" />
+<img width="100%" alt="packet sniffer capturing the contribution graph" src="./sniffer.svg" />
 
 ### `05` Query &nbsp;·&nbsp; <sub>L4 / DATABASE · 486ms</sub>
 
@@ -94,13 +78,7 @@ $ watch -n 1 'ss -o state established "( dport = :443 )"'
 
 <img width="100%" alt="Connection: keep-alive. Beat 01 President University (Informatics). Beat 02 GPA 3.67/4.00. Beat 03 2024, ITJEN Kemendagri internship. Beat 04 2025 to now, full-stack at PT Program Nusantara Solusindo. Still alive." src="./keepalive.svg" />
 
-```console
-$ uptime --commits
-```
-
-<img width="100%" alt="commit streak: connection uptime" src="https://streak-stats.demolab.com?user=ninjasaskeh&hide_border=true&background=B18CFF&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=00000099&date_format=M%20j%5B%2C%20Y%5D" />
-
-<sub>Heartbeat = keep-alive probes. Commit streak = connection uptime.</sub>
+<img width="100%" alt="uptime: commit streaks, load average and sessions per year" src="./uptime.svg" />
 
 ### `07` Response &nbsp;·&nbsp; <sub>200 / OK · 1240ms</sub>
 
