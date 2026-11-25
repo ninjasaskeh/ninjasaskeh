@@ -95,7 +95,7 @@ X-Local-Time: WIB (UTC+7)
 Your request made it back. Have a project or a role that fits? Send an email.
 
 [![Email](https://img.shields.io/badge/Location-maizakiarief%40gmail.com-c6ff00?style=for-the-badge&labelColor=000)](mailto:maizakiarief@gmail.com)
-[![Site](https://img.shields.io/badge/GET-ariefmaizaki.com-c6ff00?style=for-the-badge&labelColor=000)](https://ariefmaizaki.com)
+[![Site](https://img.shields.io/badge/GET-ariefmaizaki.vercel.app-c6ff00?style=for-the-badge&labelColor=000)](https://ariefmaizaki.com)
 [![LinkedIn](https://img.shields.io/badge/rel-linkedin-b18cff?style=for-the-badge&labelColor=000)](https://www.linkedin.com/in/arief-maizaki)
 
 <sub>`Via: 1.1 claude-code` · round trip complete in 1240ms (decorative, like on the site).</sub>
