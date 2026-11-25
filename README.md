@@ -69,7 +69,7 @@ $ tail -f /var/log/github/commits.log
 $ sniff --eat packets   # every green cell is a commit, the sniffer eats them all
 ```
 
-<img width="100%" alt="packet sniffer eating the contribution graph" src="https://raw.githubusercontent.com/ninjasaskeh/ninjasaskeh/output/sniffer.svg" />
+<img width="100%" alt="packet sniffer eating the contribution graph" src="./sniffer.svg" />
 
 ### `05` Query &nbsp;·&nbsp; <sub>L4 / DATABASE · 486ms</sub>
 
